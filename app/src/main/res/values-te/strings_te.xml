@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ఇమేజ్ యాప్</string>
+
+    <string name="home">హోమ్</string>
+    <string name="creations">సృష్టింపులు</string>
+    <string name="settings">సెట్టింగ్స్</string>
+
+    <string name="image_selection">చిత్ర ఎంపిక</string>
+    <string name="processing">ప్రాసెసింగ్</string>
+    <string name="result">ఫలితం</string>
+
+    <string name="choose_image">చిత్రాన్ని ఎంచుకోండి</string>
+    <string name="save_to_gallery">గ్యాలరీలో సేవ్ చేయండి</string>
+    <string name="share_to_other_apps">ఇతర యాప్‌లకు షేర్ చేయండి</string>
+
+    <string name="creating_artwork">కళాకృతి సృష్టిస్తోంది...</string>
+    <string name="processing_message">
+        దయచేసి 15 - 20 సెకన్లు వేచి ఉండండి. యాప్‌ను మూసివేయకండి లేదా మీ పరికరాన్ని లాక్ చేయవద్దు.
+    </string>
+
+    <string name="nothing_here_yet">ఇక్కడ ఇంకా ఏమి లేదు</string>
+    <string name="start_creating_message">మీ ఫలితాలను చూడటానికి సృష్టించడం ప్రారంభించండి.</string>
+    <string name="start_creating">సృష్టించడం ప్రారంభించండి</string>
+
+    <string name="choose_language">భాషను ఎంచుకోండి</string>
+    <string name="search_language">భాషను శోధించండి</string>
+
+    <string name="report">రిపోర్ట్</string>
+    <string name="language">భాష</string>
+    <string name="rate">మాకు రేటింగ్ ఇవ్వండి</string>
+    <string name="share_app">యాప్‌ను షేర్ చేయండి</string>
+    <string name="privacy">గోప్యతా విధానం</string>
+</resources>

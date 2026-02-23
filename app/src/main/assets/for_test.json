@@ -1,0 +1,46 @@
+{
+  "Modeling": {
+    "Templates": [
+      {
+        "url": "http://157.20.190.28:1112/examples/serverside_images/modelingWomen/modelingWomen_4.jpg",
+        "watch_ad": "ad_free"
+      },
+      {
+        "url": "http://157.20.190.28:1112/examples/serverside_images/modelingMen/modelingMen_6.jpg",
+        "watch_ad": "ad_free"
+      },
+      {
+        "url": "http://157.20.190.28:1112/examples/serverside_images/modelingMen/modelingMen_7.jpg",
+        "watch_ad": "ad_free"
+      }
+    ]
+  },
+  "Weather": {
+    "Templates": [
+      {
+        "url": "http://157.20.190.28:1112/examples/serverside_images/weatherMen/weatherMen_1.jpg",
+        "watch_ad": "ad_free"
+      },
+      {
+        "url": "http://157.20.190.28:1112/examples/serverside_images/weatherMen/weatherMen_6.jpg",
+        "watch_ad": "ad_free"
+      },
+      {
+        "url": "http://157.20.190.28:1112/examples/serverside_images/weatherMen/weatherMen_2.jpg",
+        "watch_ad": "ad_free"
+      }
+    ]
+  },
+  "Newly Added": {
+    "Templates": [
+      {
+        "url": "http://157.20.190.28:1112/examples/serverside_images/motorcycleMen/motorcycleMen_13.jpg",
+        "watch_ad": "ad_free"
+      },
+      {
+        "url": "http://157.20.190.28:1112/examples/serverside_images/cyberpunkMen/cyberpunkMen_15.jpg",
+        "watch_ad": "ad_free"
+      }     
+    ]
+  }
+}

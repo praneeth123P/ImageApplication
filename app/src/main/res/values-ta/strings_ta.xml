@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">பட செயலி</string>
+
+    <string name="home">முகப்பு</string>
+    <string name="creations">உருவாக்கங்கள்</string>
+    <string name="settings">அமைப்புகள்</string>
+
+    <string name="image_selection">படத் தேர்வு</string>
+    <string name="processing">செயலாக்கம்</string>
+    <string name="result">விளைவு</string>
+
+    <string name="choose_image">படத்தை தேர்வு செய்யவும்</string>
+    <string name="save_to_gallery">கேலரியில் சேமிக்கவும்</string>
+    <string name="share_to_other_apps">மற்ற செயலிகளுக்கு பகிரவும்</string>
+
+    <string name="creating_artwork">கலை உருவாக்கப்படுகிறது...</string>
+    <string name="processing_message">
+        தயவுசெய்து 15 - 20 விநாடிகள் காத்திருக்கவும். செயலியை மூடவோ சாதனத்தை பூட்டவோ வேண்டாம்.
+    </string>
+
+    <string name="nothing_here_yet">இங்கே இன்னும் எதுவும் இல்லை</string>
+    <string name="start_creating_message">உங்கள் விளைவுகளை பார்க்க உருவாக்கத்தை தொடங்குங்கள்.</string>
+    <string name="start_creating">உருவாக்கத்தை தொடங்குங்கள்</string>
+
+    <string name="choose_language">மொழியை தேர்ந்தெடுக்கவும்</string>
+    <string name="search_language">மொழியை தேடவும்</string>
+
+    <string name="report">அறிக்கை</string>
+    <string name="language">மொழி</string>
+    <string name="rate">எங்களை மதிப்பிடுங்கள்</string>
+    <string name="share_app">ஆப்பை பகிரவும்</string>
+    <string name="privacy">தனியுரிமைக் கொள்கை</string>
+</resources>

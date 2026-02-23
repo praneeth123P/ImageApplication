@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ಚಿತ್ರ ಅಪ್ಲಿಕೇಶನ್</string>
+
+    <string name="home">ಮುಖಪುಟ</string>
+    <string name="creations">ರಚನೆಗಳು</string>
+    <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+
+    <string name="image_selection">ಚಿತ್ರ ಆಯ್ಕೆ</string>
+    <string name="processing">ಪ್ರಕ್ರಿಯೆ</string>
+    <string name="result">ಫಲಿತಾಂಶ</string>
+
+    <string name="choose_image">ಚಿತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="save_to_gallery">ಗ್ಯಾಲರಿಗೆ ಉಳಿಸಿ</string>
+    <string name="share_to_other_apps">ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಹಂಚಿಕೆಮಾಡಿ</string>
+
+    <string name="creating_artwork">ಕಲಾಕೃತಿ ರಚಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="processing_message">
+        ದಯವಿಟ್ಟು 15 - 20 ಸೆಕೆಂಡುಗಳಷ್ಟು ಕಾಯಿರಿ. ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮುಚ್ಚಬೇಡಿ ಅಥವಾ ಸಾಧನವನ್ನು ಲಾಕ್ ಮಾಡಬೇಡಿ.
+    </string>
+
+    <string name="nothing_here_yet">ಇಲ್ಲಿ ಇನ್ನೂ ಏನೂ ಇಲ್ಲ</string>
+    <string name="start_creating_message">ನಿಮ್ಮ ಫಲಿತಾಂಶಗಳನ್ನು ನೋಡಲು ರಚನೆ ಪ್ರಾರಂಭಿಸಿ.</string>
+    <string name="start_creating">ರಚನೆ ಪ್ರಾರಂಭಿಸಿ</string>
+
+    <string name="choose_language">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="search_language">ಭಾಷೆ ಹುಡುಕಿ</string>
+
+    <string name="report">ವರದಿ</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="rate">ನಮಗೆ ಮೌಲ್ಯಮಾಪನ ನೀಡಿ</string>
+    <string name="share_app">ಅ್ಯಪ್ ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="privacy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+</resources>

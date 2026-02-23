@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">इमेज ऐप</string>
+
+    <string name="home">होम</string>
+    <string name="creations">क्रिएशन्स</string>
+    <string name="settings">सेटिंग्स</string>
+
+    <string name="image_selection">इमेज चयन</string>
+    <string name="processing">प्रोसेसिंग</string>
+    <string name="result">परिणाम</string>
+
+    <string name="choose_image">इमेज चुनें</string>
+    <string name="save_to_gallery">गैलरी में सेव करें</string>
+    <string name="share_to_other_apps">अन्य ऐप्स पर शेयर करें</string>
+
+    <string name="creating_artwork">आर्टवर्क बनाया जा रहा है...</string>
+    <string name="processing_message">
+        कृपया 15 - 20 सेकंड प्रतीक्षा करें और ऐप को बंद या डिवाइस लॉक न करें।
+    </string>
+
+    <string name="nothing_here_yet">यहाँ अभी कुछ नहीं है</string>
+    <string name="start_creating_message">अपने परिणाम देखने के लिए बनाना शुरू करें।</string>
+    <string name="start_creating">बनाना शुरू करें</string>
+
+    <string name="choose_language">भाषा चुनें</string>
+    <string name="search_language">भाषा खोजें</string>
+
+    <string name="report">रिपोर्ट</string>
+    <string name="language">भाषा</string>
+    <string name="rate">हमें रेट करें</string>
+    <string name="share_app">ऐप साझा करें</string>
+    <string name="privacy">गोपनीयता नीति</string>
+</resources>

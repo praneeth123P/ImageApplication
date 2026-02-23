@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/navigation/nav_graph.xml -->
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.imageapp.ui.HomeFragment"
+        android:label="Home">
+        <action
+            android:id="@+id/action_home_to_imageSelection"
+            app:destination="@id/imageSelectionFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/imageSelectionFragment"
+        android:name="com.example.imageapp.ui.ImageSelectionFragment"
+        android:label="Image Selection">
+        <argument
+            android:name="templateUrl"
+            app:argType="string"
+            android:defaultValue=""/>
+        <argument
+            android:name="folder"
+            app:argType="string"
+            android:defaultValue=""/>
+        <argument
+            android:name="fileName"
+            app:argType="string"
+            android:defaultValue=""/>
+        <argument
+            android:name="appName"
+            app:argType="string"
+            android:defaultValue=""/>
+        <action
+            android:id="@+id/action_imageSelection_to_processing"
+            app:destination="@id/processingFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/processingFragment"
+        android:name="com.example.imageapp.ui.ProcessingFragment"
+        android:label="Processing">
+        <argument
+            android:name="imagePath"
+            app:argType="string" />
+        <argument
+            android:name="folder"
+            app:argType="string" />
+        <argument
+            android:name="appName"
+            app:argType="string" />
+
+        <argument
+            android:name="fileName"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_processing_to_result"
+            app:destination="@id/resultFragment"
+            app:popUpTo="@id/homeFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.example.imageapp.ui.ResultFragment"
+        android:label="Result">
+        <argument
+            android:name="resultUrl"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/creationsFragment"
+        android:name="com.example.imageapp.ui.CreationsFragment"
+        android:label="Creations" />
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.example.imageapp.ui.SettingsFragment"
+        android:label="Settings">
+        <action
+            android:id="@+id/action_settings_to_language"
+            app:destination="@id/languageFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/languageFragment"
+        android:name="com.example.imageapp.ui.LanguageFragment"
+        android:label="Language" />
+
+</navigation>
+
