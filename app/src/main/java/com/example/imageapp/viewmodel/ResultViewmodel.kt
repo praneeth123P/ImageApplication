@@ -30,7 +30,7 @@ class ResultViewModel(application: Application) : AndroidViewModel(application) 
     private val _savedUri = MutableLiveData<Uri?>()
     val savedUri: LiveData<Uri?> = _savedUri
 
-    // 🔥 MAIN METHOD WITH FORMAT SUPPORT
+    // MAIN METHOD WITH FORMAT SUPPORT
     fun saveImageToGallery(
         bitmap: Bitmap,
         format: ImageFormat = ImageFormat.JPEG
